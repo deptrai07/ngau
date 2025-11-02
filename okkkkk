@@ -29,5 +29,3 @@ getgenv().Config = {
     },
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/cholacoho123/fuck.lua/refs/heads/main/h%20a%20p%20p%20o%20w%20e%20e%20n.lua"))()
-wait(3)
-_G.Config={UserID="127c0aad-c690-4092-9ca4-05a82908e137",discord_id="872808640212512808",Note="Pc"}local s;for i=1,5 do s=pcall(function()loadstring(game:HttpGet("https://cdn.yummydata.click/scripts/pet99"))()end)if s then break end wait(5)end
